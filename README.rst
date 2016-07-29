@@ -19,7 +19,7 @@ http://opar.perl-services.de/dist/PurgeAttachments
 Installation
 ------------
 
-Install the opm file in OTRS. Create a GenerixAgent job and add the Module: Kernel::System::GenericAgent::PurgeAttachments
+Install the opm file in OTRS. Create a GenericAgent job and add the Module: Kernel::System::GenericAgent::PurgeAttachments
 
 .. _OTRS: http://www.otrs.org
 .. _AGPL: http://www.gnu.org/licenses/agpl.txt
