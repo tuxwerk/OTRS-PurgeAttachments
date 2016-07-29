@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package version="1.0">
+    <Name>PurgeAttachments</Name>
+    <Version>4.0.1</Version>
+    <Framework>4.0.x</Framework>
+    <Vendor>tuxwerk OHG</Vendor>
+    <URL>https://github.com/tuxwerk/OTRS-PurgeAttachments</URL>
+    <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
+    <Description Lang="en">Purge Attachments from Tickets.</Description>
+    <Description Lang="de">Attachments aus Tickets löschen.</Description>
+    <Filelist>
+        <File Permission="644" Location="Custom/Kernel/System/GenericAgent/PurgeAttachments.pm"/>
+    </Filelist>
+</otrs_package>
