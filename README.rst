@@ -2,7 +2,7 @@
  OTRS Package - Purge Attachments
 =====================================
 
-This is a package for the ticket system OTRS_ 4.0
+This is a package for the ticket system OTRS_ 5.0
 
 Purges attachments and plain text from tickets. This is a GenericAgent module.
 
